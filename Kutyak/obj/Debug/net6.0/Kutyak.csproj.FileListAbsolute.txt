@@ -1,0 +1,15 @@
+C:\Users\major\source\repos\Console\Kutyak\Kutyak\bin\Debug\net6.0\Kutyak.exe
+C:\Users\major\source\repos\Console\Kutyak\Kutyak\bin\Debug\net6.0\Kutyak.deps.json
+C:\Users\major\source\repos\Console\Kutyak\Kutyak\bin\Debug\net6.0\Kutyak.runtimeconfig.json
+C:\Users\major\source\repos\Console\Kutyak\Kutyak\bin\Debug\net6.0\Kutyak.dll
+C:\Users\major\source\repos\Console\Kutyak\Kutyak\bin\Debug\net6.0\Kutyak.pdb
+C:\Users\major\source\repos\Console\Kutyak\Kutyak\obj\Debug\net6.0\Kutyak.csproj.AssemblyReference.cache
+C:\Users\major\source\repos\Console\Kutyak\Kutyak\obj\Debug\net6.0\Kutyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\major\source\repos\Console\Kutyak\Kutyak\obj\Debug\net6.0\Kutyak.AssemblyInfoInputs.cache
+C:\Users\major\source\repos\Console\Kutyak\Kutyak\obj\Debug\net6.0\Kutyak.AssemblyInfo.cs
+C:\Users\major\source\repos\Console\Kutyak\Kutyak\obj\Debug\net6.0\Kutyak.csproj.CoreCompileInputs.cache
+C:\Users\major\source\repos\Console\Kutyak\Kutyak\obj\Debug\net6.0\Kutyak.dll
+C:\Users\major\source\repos\Console\Kutyak\Kutyak\obj\Debug\net6.0\refint\Kutyak.dll
+C:\Users\major\source\repos\Console\Kutyak\Kutyak\obj\Debug\net6.0\Kutyak.pdb
+C:\Users\major\source\repos\Console\Kutyak\Kutyak\obj\Debug\net6.0\Kutyak.genruntimeconfig.cache
+C:\Users\major\source\repos\Console\Kutyak\Kutyak\obj\Debug\net6.0\ref\Kutyak.dll

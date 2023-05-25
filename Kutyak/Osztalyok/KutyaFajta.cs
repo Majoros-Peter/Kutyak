@@ -1,5 +1,4 @@
 ﻿namespace Kutyak;
-
 internal class KutyaFajta
 {
     public int Id { get; private set; }
@@ -11,5 +10,6 @@ internal class KutyaFajta
         Id = Convert.ToInt32(adatok[0]);
         Nev = adatok[1];
         EredetiNev = adatok[2];
+
     }
 }

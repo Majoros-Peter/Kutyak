@@ -17,7 +17,8 @@ internal class Kutya
         UtolsoOrvosiEllenorzes = Convert.ToDateTime(adatok[4]);
     }
 
-    public string GetNev(List<KutyaNev> kutyaNevek) => kutyaNevek.Where(G => G.Id == NevId).First().Nev;
-    public string GetFajta(List<KutyaFajta> kutyaFajtak) => kutyaFajtak.Where(G => G.Id == NevId).First().Nev;
-    public string GetredetiFajta(List<KutyaFajta> kutyaFajtak) => kutyaFajtak.Where(G => G.Id == NevId).First().EredetiNev;
+    public string Nev(List<KutyaNev> kutyaNevek) => kutyaNevek.Where(G => G.Id == NevId).First().Nev;
+    public string Fajta(List<KutyaFajta> kutyaFajtak) => kutyaFajtak.Where(G => G.Id == NevId).First().Nev;
+    public string EredetiFajta(List<KutyaFajta> kutyaFajtak) => kutyaFajtak.Where(G => G.Id == NevId).First().EredetiNev;
+
 }
